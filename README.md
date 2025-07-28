@@ -2,6 +2,7 @@
 
 
 📜 License & Copyright
+
 Blue AI — White Paper and Thesis
 Author: Emmanuel Jaikumar John Durai
 © 2025 Emmanuel Jaikumar John Durai. All Rights Reserved.
